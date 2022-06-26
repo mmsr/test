@@ -1,0 +1,2 @@
+def To_print(a):
+	print("a")
